@@ -9,3 +9,10 @@ The project was carried out in 4 stages.
 
 - Install and Import Libraries:
   Python libraries such as numpy and pandas are install and imported for manipulating numerical and tabular data respectively. We use the opendatasets library for downloading the   dataset from kaggle by parsing the dataset URL into it. For visualization, matplotlib, seaborn, plotly and folium are installed.
+- Data Cleaning and Preparation:
+  This includes making statistical hypothesis and findings, discovering and handling invalid data entries, such as negative or zero prices for cars as well as removing or adding     columns that we feel might or might not be useful in answering relevant questions.
+  
+- Data Visualization:
+  To gain more insight as to the relationship between various columns, with the aide of matplotlib, plotly, seaborn and folium, we create line charts, histograms, piecharts, etc.
+  
+
