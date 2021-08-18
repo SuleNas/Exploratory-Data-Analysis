@@ -10,9 +10,14 @@ The project was carried out in 4 stages.
 - Install and Import Libraries:
   Python libraries such as numpy and pandas are install and imported for manipulating numerical and tabular data respectively. We use the opendatasets library for downloading the   dataset from kaggle by parsing the dataset URL into it. For visualization, matplotlib, seaborn, plotly and folium are installed.
 - Data Cleaning and Preparation:
-  This includes making statistical hypothesis and findings, discovering and handling invalid data entries, such as negative or zero prices for cars as well as removing or adding     columns that we feel might or might not be useful in answering relevant questions.
+  This includes making statistical hypothesis and findings, discovering and handling invalid data entries, such as negative or zero prices for cars as well as removing or adding     columns that we feel might or might not be useful in the analysis and answering relevant questions.
   
 - Data Visualization:
   To gain more insight as to the relationship between various columns, with the aide of matplotlib, plotly, seaborn and folium, we create line charts, histograms, piecharts, etc.
+  
+- Answering Some Questions Regarding The Dataset:
+  After the data cleaning and visualization, we can now say that our dataset is ready for answering some questions that will give us important information that may aide in           adequate decision making. Some questions answered are: The price range for cars on the site, Wheel drive models adopted by various vehicle manufacturers, Type of fuel used by     different cars, etc.
+  
+This project was part of my Data Science Boot Camp on Jovian. It is open to corrections and additions.
   
 
